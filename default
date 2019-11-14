@@ -88,8 +88,8 @@
 
 
 upstream backend {
-   server 54.165.214.143;
-   server 54.242.216.195;
+   server 52.91.163.66;
+   server 3.80.202.90;
 }
 
 server {
